@@ -1,0 +1,53 @@
+body{
+    background-image:url(wp3085295.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+
+}
+form{
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    padding:20px;
+    margin-left: 40%;
+    border-radius: 5px;
+    background-image: url(Indian.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#l1{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#l2{
+   font-size: 20px;
+   background-color:  white;
+   border-radius: 5px;
+   padding: 10px;
+}
+
+#o1{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#lo1{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: 01baef;
+    cursor: pointer;
+}
+
+h2{
+    text-decoration: underline;
+}
